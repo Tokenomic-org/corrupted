@@ -183,24 +183,14 @@
 .nav-menu a {
     padding: 0 8px 0px 8px;
     text-decoration: none;
-    color: $title-color;
+    color: $white;
     font-weight: 600;
     font-size: 12px;
     text-transform: uppercase;
     outline: none;
+
 }
 
-#header2.header-scrolled .nav-menu2 > li > a {
-    color: #222;
-}
-#header2 .nav-menu2 > li > a {
-    text-decoration: none;
-    color: #fff;
-    font-weight: 600;
-    font-size: 12px;
-    text-transform: uppercase;
-    outline: none;
-}
 
 .nav-menu .menu-active {
     a {
