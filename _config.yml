@@ -42,7 +42,7 @@ disqus_shortname: softdash
 # product_slider                    sass_fixed_image
 # product_video                     sass_slider       
 
-hero: 'product_fixed_image'
+hero: 'product_slider'
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
