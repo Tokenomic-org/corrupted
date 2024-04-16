@@ -183,14 +183,12 @@
 .nav-menu a {
     padding: 0 8px 0px 8px;
     text-decoration: none;
-    color: $white;
+    color: $title-color;
     font-weight: 600;
     font-size: 12px;
     text-transform: uppercase;
     outline: none;
-
 }
-
 
 .nav-menu .menu-active {
     a {
