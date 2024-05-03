@@ -94,7 +94,7 @@ var deploy = require("gulp-gh-pages");
  
 gulp.task("deploy", ["jekyll-build"], function () {
  
-    return gulp.src("./_site/**/*")
+    return gulp.src("./website/**/*")
  
         .pipe(deploy());
 });
