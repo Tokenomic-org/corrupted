@@ -38,3 +38,11 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
 
+# Run bundle install elsewhere to update dependencies
+bundle install
+
+# Add the updated Gemfile.lock to version control
+git add Gemfile.lock
+
+# If this is a development machine, remove the Gemfile freeze
+bundle config unset deployment
