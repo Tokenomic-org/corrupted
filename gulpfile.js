@@ -89,3 +89,12 @@ function watch() {
 }
 
 gulp.task('default', gulp.parallel(jekyllBuild, browserSyncServe, watch))
+
+var deploy = require("gulp-gh-pages");
+ 
+gulp.task("deploy", ["jekyll-build"], function () {
+ 
+    return gulp.src("./_site/**/*")
+ 
+        .pipe(deploy());
+});
