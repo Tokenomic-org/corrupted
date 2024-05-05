@@ -27,12 +27,7 @@
       url: "/portfolio-2"
 
  - text: "News"
-   url: "#"
-   dropdown: 
-    - text: "Blog"
-      url: "/blog.html"
-    - text: "Blog 2"
-      url: "/blog-2.html"
+   url: "/blog.html"
 
  - text: "Contact"
    url: "contact.html"
