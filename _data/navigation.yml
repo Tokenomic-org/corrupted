@@ -4,14 +4,8 @@
  - text: About
    url: "/about.html"
 
-
  - text: Services
-   url: "#"
-   dropdown:
-    - text: "Service 1"
-      url: "/services"
-    - text: "Service 2"
-      url: "/services-2"
+   url: "/services"
 
  - text: Portfolio
    url: "#"
