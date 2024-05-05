@@ -2,12 +2,7 @@
    url: "/"
 
  - text: About
-   url: "#"
-   dropdown:
-    - text: "About us"
-      url: "/about.html"
-    - text: "Our Team"
-      url: "/team.html"
+   url: "/about.html"
 
 
  - text: Services
