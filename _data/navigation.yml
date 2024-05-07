@@ -4,16 +4,11 @@
  - text: About
    url: "/about.html"
 
+ - text: Training
+   url: "/training.html"
+
  - text: Services
    url: "/services"
-
- - text: Portfolio
-   url: "#"
-   dropdown:
-    - text: "Portfolio"
-      url: "/portfolio.html"
-    - text: "Portfolio 2"
-      url: "/portfolio-2"
 
  - text: "News"
    url: "/blog.html"
