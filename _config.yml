@@ -27,11 +27,11 @@ dribbble_url: "https://dribble.com/rubel8525"
 behance_url: "https://behance.com/rubel8525"
 github_url: "https://github.com/rubel_hossain"
 
-copyright_text: "Copyright By@Example - 2020"
+copyright_text: "Copyright By@Example - 2024"
 
 phone_number: "98787676564"
-email: "rubel2585@gmail.com"
-office_address: "12/A, NYC, UK"
+email: "info@tokenomic.org"
+office_address: "Geneva, Switzerland"
 
 plugins:
   - jekyll-feed
