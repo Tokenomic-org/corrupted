@@ -20,14 +20,11 @@ permalink: /:title
 perloader: true
 logo_url: "/assets/images/logo.png"
 logo_url_2: "/assets/images/logo-two.png"
-twitter_url: "https://twitter.com/rubel8525"
-facebook_url: "https://facebook.com/rubel9g"
-pinterest_url: "https://pinterest.com/rubel8525"
-instagram_url: "https://instagram.com/rubel8525"
+twitter_url: "https://twitter.com/DeFiTokenomic"
+facebook_url: "https://facebook.com/DeFiTokenomic"
+instagram_url: "https://instagram.com/DeFiTokenomic"
+linkedin_url: "https://www.linkedin.com/company/DeFiTokenomic"
 youtube_url: "https://youtube.com/rubel2585"
-dribbble_url: "https://dribble.com/rubel8525"
-behance_url: "https://behance.com/rubel8525"
-github_url: "https://github.com/rubel_hossain"
 
 copyright_text: "Copyright By@Example - 2024"
 
