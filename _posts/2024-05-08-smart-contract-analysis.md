@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Impact of Smart Contracts: An In-Depth Analysis"
-date: 2019-01-01 20:37:13 +0600
+date: 2024-05-10 20:37:13 +0600
 tags: smart contracts
 categories: [smart contracts]
 author: "Guillaume Lauzier"
