@@ -1,9 +1,11 @@
 
-title: "Your awesome title"
+title: "Tokenomic"
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Boost your DeFi skills with Master DeFi Tokenomics. We provide 
+  customized courses, expert consultations, and thorough market 
+  analysis. Participate in our expert-led workshops and webinars 
+  to deepen your blockchain and DeFi knowledge. Enhance your 
+  expertise—contact us for a quote or more information.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tokenomic.org" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -18,20 +20,17 @@ permalink: /:title
 perloader: true
 logo_url: "/assets/images/logo.png"
 logo_url_2: "/assets/images/logo-two.png"
-twitter_url: "https://twitter.com/rubel8525"
-facebook_url: "https://facebook.com/rubel9g"
-pinterest_url: "https://pinterest.com/rubel8525"
-instagram_url: "https://instagram.com/rubel8525"
+twitter_url: "https://twitter.com/DeFiTokenomic"
+facebook_url: "https://facebook.com/DeFiTokenomic"
+instagram_url: "https://instagram.com/DeFiTokenomic"
+linkedin_url: "https://www.linkedin.com/company/DeFiTokenomic"
 youtube_url: "https://youtube.com/rubel2585"
-dribbble_url: "https://dribble.com/rubel8525"
-behance_url: "https://behance.com/rubel8525"
-github_url: "https://github.com/rubel_hossain"
 
-copyright_text: "Copyright By@Example - 2020"
+copyright_text: "Copyright By@Example - 2024"
 
 phone_number: "98787676564"
-email: "rubel2585@gmail.com"
-office_address: "12/A, NYC, UK"
+email: "info@tokenomic.org"
+office_address: "Geneva, Switzerland"
 
 plugins:
   - jekyll-feed
