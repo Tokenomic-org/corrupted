@@ -1,5 +1,5 @@
 current directory: /Users/guillaumelauzier/Downloads/tokenomic/website/tokenomic/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20240527-49616-1mgihh4.rb extconf.rb --with-cppflags\=-I/include\ --with-ldflags\=-L/lib
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20240505-3947-7nzeox.rb extconf.rb --with-cppflags\=-I/include\ --with-ldflags\=-L/lib
 checking for -lcrypto... *** extconf.rb failed ***
 Could not create Makefile due to some reason, probably lack of necessary
 libraries and/or headers.  Check the mkmf.log file for more details.  You may

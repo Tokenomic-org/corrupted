@@ -2,10 +2,10 @@
    url: "/"
 
  - text: About
-   url: "/about"
+   url: "/about.html"
 
  - text: Training
-   url: "/training"
+   url: "/training.html"
 
  - text: Services
    url: "/services"
@@ -14,4 +14,4 @@
    url: "/blog.html"
 
  - text: "Contact"
-   url: "contact"
+   url: "contact.html"
